@@ -111,6 +111,8 @@ function Product(props) {
         );
     }
 
+    
+
     function renderProductQuantitySelector() {
         return (
             <div className="product__quantity-selector">
